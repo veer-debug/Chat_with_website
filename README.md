@@ -34,7 +34,10 @@ An AI-powered tool that allows users to interactively query website content by s
 4. Activate Enviroment
     ```bash
     myenv/Scripts/Activate
-5. Run Streamlit App
+5. Install `requirements.txt`
+    ```bash
+    pip install requirements.txt
+6. Run Streamlit App
     ```bash
     streamlit run src/app.py
 
